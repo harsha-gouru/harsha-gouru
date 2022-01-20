@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Neural Networks with Web Development                 
-- 🌱 I’m currently learning Three.js
-- 👯 I’m looking to collaborate on various projects
-- 🤔 I’m looking for help with  Full stack Neural Nertwork and Web Development Projects
+- 🔭 I’m currently working on Machine Learning Operations(MLOps) with Full stack Web Development.               
+- 🌱 I’m currently learning Exchange in Neural Networks.
+- 👯 I’m looking to collaborate on various open source projects.
 - 💬 Ask me about Web Developement and Machine Learning
 - 📫 How to reach me: github.com/harsha-gouru
-- 😄 Pronouns: ...
-- ⚡ Fun fact: %
+- 😄 Pronouns: He/him
 
