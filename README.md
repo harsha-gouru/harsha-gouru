@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: github.com/harsha-gouru
 - 😄 Pronouns: He/him
 
+
+- ⚙️ I use daily: `.py`, `.js`, `.Neural Network`, `.ts`, `.math`, `.rs`, `.ai`
+
