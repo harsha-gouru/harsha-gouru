@@ -24,3 +24,11 @@ Bullish on agents that can act on their own, pay for their
 own resources, and compose with other agents. The web is
 about to get a lot more autonomous and I want to be building
 the plumbing for that.
+---
+
+**Building right now**
+- [apple-fm-server](https://github.com/harsha-gouru/apple-fm-server) — Apple's on-device Foundation Model as an OpenAI-compatible local API
+- [localdictate](https://github.com/harsha-gouru/localdictate) — Right-Option-to-dictate menu bar app, 100% on-device via Apple Speech
+- [llm-inspector](https://github.com/harsha-gouru/llm-inspector) — see what an LLM is actually doing, token by token
+- [ai-traffic-audit](https://github.com/harsha-gouru/ai-traffic-audit) — what browser-based AI products send over the network
+- [gpu-inference-playground](https://github.com/harsha-gouru/gpu-inference-playground) — benchmark LLM inference techniques on H100 / MI300X
